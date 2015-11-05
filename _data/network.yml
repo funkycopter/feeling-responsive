@@ -1,4 +1,4 @@
-- menu_name: "Dankeschön"
+- menu_name: "Thanks"
 
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
@@ -19,3 +19,13 @@
   url: "http://srobbin.com/jquery-plugins/backstretch/"
   class: "sitemap-link"
   title: "Using Backstretch by Scott Robbin"
+
+- name: "Using Backstretch by Scott Robbin"
+  url: "http://srobbin.com/jquery-plugins/backstretch/"
+  class: "sitemap-link"
+  title: "Using Backstretch by Scott Robbin"
+
+- name: "Drone image from Noun Project"
+  url: "https://thenounproject.com/search/?q=quadcopter&i=127453"
+  class: "sitemap-link"
+  title: "Drone Vision by Matthew Davis from the Noun Project"
